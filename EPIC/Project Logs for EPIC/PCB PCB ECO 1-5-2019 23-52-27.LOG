@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=EchoLeft Pin=*-4
+Added Pin To Net: NetName=TrigLeft Pin=*-5
+Added Pin To Net: NetName=EchoRight Pin=*-6
+Added Pin To Net: NetName=TrigRight Pin=*-7
+Added Pin To Net: NetName=EchoFront Pin=*-8
+Added Pin To Net: NetName=TrigFront Pin=*-9
+Added Pin To Net: NetName=EchoBottom Pin=*-13
+Added Pin To Net: NetName=TrigBottom Pin=*-14
+Added Pin To Net: NetName=Net*_11 Pin=*-11
+Added Pin To Net: NetName=Net*_11 Pin=MotorLeft-1
+Added Net: Name=Net*_11
+Added Pin To Net: NetName=Net*_12 Pin=*-12
+Added Pin To Net: NetName=Net*_12 Pin=MotorRight-1
+Added Net: Name=Net*_12
+Added Room: Name=Sche
